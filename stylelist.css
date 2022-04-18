@@ -1,0 +1,37 @@
+.container {
+    width: 50%;
+    margin: 20px auto 0px auto;
+}
+
+.removed{
+    color: brown;
+}
+
+.removed label{
+    text-decoration: line-through;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+main{
+    background-color: #d1c3c3;
+}
+
+body{
+    background-color: #d1c3c3;
+}
+
+h3{
+    color:brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+em{
+    color: brown;
+}
+
+button {
+    border: #d1c3c3;
+}
